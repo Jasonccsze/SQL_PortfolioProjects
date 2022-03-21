@@ -13,4 +13,4 @@ Dashboard: COVID_DataVisualisation (link: https://public.tableau.com/app/profile
 Project #3  
 Data cleaning  
 SQL script: DataCleaning.sql  
-Dataset: Nashville Housing Data for Data Cleaning.xlsx(source: https://github.com/AlexTheAnalyst/PortfolioProjects/blob/c5e3ef749de46802a5ac89a0e22daeb60cfc0481/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx)
+Dataset: Nashville Housing Data for Data Cleaning.xlsx (source: https://github.com/AlexTheAnalyst/PortfolioProjects/blob/c5e3ef749de46802a5ac89a0e22daeb60cfc0481/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx)
