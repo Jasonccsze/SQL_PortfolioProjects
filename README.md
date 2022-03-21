@@ -8,7 +8,7 @@ Dataset: https://ourworldindata.org/covid-deaths
   
 Project #2 - COVID-19 data visualisation  
 A dashboard is built based on Project #1's results  
-Dashboard: COVID_DataVisualisation (link: https://public.tableau.com/app/profile/chan.chit.sze/viz/COVID_DataVisualisation/Dashboard1)  
+Dashboard: COVID_DataVisualisation (link to tableau public: https://public.tableau.com/app/profile/chan.chit.sze/viz/COVID_DataVisualisation/Dashboard1)  
   
 Project #3  
 Data cleaning  
