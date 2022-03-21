@@ -1,5 +1,6 @@
 # SQL_PortfolioProjects
-This repository contains my personal SQL projects. Tools: Excel, Microsoft SQL Server Management Studio, Tableau  
+This repository contains my personal SQL projects.  
+Tools: Excel, Microsoft SQL Server Management Studio, Tableau  
   
 Project #1 - COVID-19 Data exploration  
 SQL script: COVID_DataExploration_v2.sql  
